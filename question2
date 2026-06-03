@@ -1,0 +1,7 @@
+name = "Mohammad Shahid"
+age = 20
+city = "Ahar"
+
+print("Name:", name)
+print("Age:", age)
+print("City:", city)
